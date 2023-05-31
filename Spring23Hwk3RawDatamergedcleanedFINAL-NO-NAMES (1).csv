@@ -1,0 +1,924 @@
+﻿walk,hamburger,pressure,transfer,stem,landscape,location,yourgroupname,class
+60,0,4,0,0,1,Wilson Plaza,Abraham Wald,100Afirst
+30,0,4,0,1,1,Court of Sciences,Abraham Wald,100Afirst
+120,2,3,0,0,1,Sculpture Garden,Abraham Wald,100Afirst
+180,0,3,0,1,1,Dickson Plaza,Abraham Wald,100Afirst
+90,1,3,1,0,0.75,Dickson Plaza,Abraham Wald,100Afirst
+60,0,2,1,0,0.5,Powell Study Court,Abraham Wald,100Afirst
+90,0,3,0,1,0.5,Inverted Fountain,Abraham Wald,100Afirst
+180,0,4,0,1,1,Inverted Fountain,Abraham Wald,100Afirst
+150,0,3,0,0,0.5,Straus Stadium,Abraham Wald,100Afirst
+240,1,3,0,1,0.8,Straus Stadium,Abraham Wald,100Afirst
+100,1,3,0,1,0.75,Young Hall,Abraham Wald,100Afirst
+45,0,4,0,1,1,Knudsen Hall,Abraham Wald,100Afirst
+60,0,3,0,0,1,Dickson Plaza,Abraham Wald,100Afirst
+60,1,4,0,1,1,Student Activities Center,Abraham Wald,100Afirst
+60,1,3,0,0,0.8,Bunche Hall,Abraham Wald,100Afirst
+120,1,4,0,0,0.5,Powell Library,Abraham Wald,100Afirst
+120,1,3,0,1,0.7,Ackerman Union,Abraham Wald,100Afirst
+60,1,4,0,1,0.9,Mathematical Sciences,Abraham Wald,100Afirst
+75,0,3,0,1,0.5,Sunset Village,Abraham Wald,100Afirst
+90,0,3,0,0,0.6,De Neve ,Abraham Wald,100Afirst
+90,1,3,0,0,0.45,Bunche Hall,Abraham Wald,100Afirst
+130,0,2,0,0,0.5,Bunche Hall,Abraham Wald,100Afirst
+250,2,3,0,1,0.5,Bunche Hall,Abraham Wald,100Afirst
+100,1,3,1,0,0.7,Haines Hall,Abraham Wald,100Afirst
+60,1,4,0,0,0.4,Haines Hall,Abraham Wald,100Afirst
+120,0,4,0,0,0.45,Kinsey Teaching Pavilion,Abraham Wald,100Afirst
+140,1,3,1,1,0.6,Kinsey Teaching Pavilion,Abraham Wald,100Afirst
+90,0,2,1,1,0.75,Kinsey Teaching Pavilion,Abraham Wald,100Afirst
+90,1,4,0,1,0.8,Slichter Hall,Abraham Wald,100Afirst
+150,1,4,0,1,0.5,Slichter Hall,Abraham Wald,100Afirst
+120,1,3,1,1,0.5,Ackerman Hall,Abraham Wald,100Afirst
+65,0,3,1,1,0.5,University Apartment,Abraham Wald,100Afirst
+160,1,3,0,1,0.7,Rolfe Hall,Abraham Wald,100Afirst
+60,1,2,0,1,0.3,Rolfe Hall,Abraham Wald,100Afirst
+45,1,4,1,1,0.6,Rolfe Hall,Abraham Wald,100Afirst
+120,0,3,0,1,0.75,Pritzker Hall,Abraham Wald,100Afirst
+60,0,3,0,1,0.25,Pritzker Hall,Abraham Wald,100Afirst
+150,0,3,0,1,0.75,Franz Hall,Abraham Wald,100Afirst
+120,1,3,0,1,0.28,Court of Sciences,Abraham Wald,100Afirst
+60,0,4,1,1,0.5,Geology Building,Abraham Wald,100Afirst
+120,10,4,0,1,0,Engineering IV,Gertrude Cox,100Afirst
+80,3,3,0,1,0.1,Engineering IV,Gertrude Cox,100Afirst
+40,0,4,1,1,0.2,Engineering IV,Gertrude Cox,100Afirst
+30,0,4,0,1,0,Engineering IV,Gertrude Cox,100Afirst
+60,2,3,0,1,0.3,Engineering IV,Gertrude Cox,100Afirst
+30,3,3,0,0,0.5,Kerckhoff hall,Gertrude Cox,100Afirst
+50,2,3,0,0,0.3,Kerckhoff hall,Gertrude Cox,100Afirst
+120,10,4,1,1,0,Kerckhoff hall,Gertrude Cox,100Afirst
+90,0,4,0,1,0.1,Kerckhoff hall,Gertrude Cox,100Afirst
+150,1,4,1,1,0.2,Kerckhoff hall,Gertrude Cox,100Afirst
+30,0,4,1,1,1,James West Alumni Center ,Gertrude Cox,100Afirst
+40,1,3,0,1,0.4,James West Alumni Center ,Gertrude Cox,100Afirst
+24,0,3,0,0,0.5,James West Alumni Center ,Gertrude Cox,100Afirst
+85,3,4,1,1,1,James West Alumni Center ,Gertrude Cox,100Afirst
+65,5,4,1,0,0.3,James West Alumni Center ,Gertrude Cox,100Afirst
+45,1,2,0,0,0.4,James West Alumni Center ,Gertrude Cox,100Afirst
+30,3,3,0,1,0.6,James West Alumni Center ,Gertrude Cox,100Afirst
+35,0,1,0,0,0.5,James West Alumni Center ,Gertrude Cox,100Afirst
+90,4,4,1,1,1,James West Alumni Center ,Gertrude Cox,100Afirst
+30,2,4,0,0,0,James West Alumni Center ,Gertrude Cox,100Afirst
+60,2,3,1,0,1,Holly Dorm,Gertrude Cox,100Afirst
+70,2,2,0,1,0.4,Hedrick Summit,Gertrude Cox,100Afirst
+45,0,3,0,1,0.4,Bunche Hall,Gertrude Cox,100Afirst
+6,0,3,0,1,0.5,Bunche Hall,Gertrude Cox,100Afirst
+150,0,3,1,0,0.9,Bunche Hall,Gertrude Cox,100Afirst
+60,1,3,0,1,0.3,Bunche Hall,Gertrude Cox,100Afirst
+60,4,2,1,0,0.7,Bunche Hall,Gertrude Cox,100Afirst
+120,2,4,1,1,0.5,Bunche Hall,Gertrude Cox,100Afirst
+150,3,1,0,0,0.5,Bunche Hall,Gertrude Cox,100Afirst
+35,1,3,1,1,0.4,Bunche Hall,Gertrude Cox,100Afirst
+60,2,2,0,1,0.25,Dodd Hall,Gertrude Cox,100Afirst
+30,0,3,1,0,0.25,Dodd Hall,Gertrude Cox,100Afirst
+150,0,4,0,0,0.15,Dodd Hall,Gertrude Cox,100Afirst
+50,2,1,0,0,0.9,Haines Hall,Gertrude Cox,100Afirst
+65,1,3,0,0,0.35,Haines Hall,Gertrude Cox,100Afirst
+120,1,1,0,1,0.2,Schoenberg Hall,Gertrude Cox,100Afirst
+100,2,4,1,1,0.75,Schoenberg Hall,Gertrude Cox,100Afirst
+30,2,2,0,0,0.8,Schoenberg Hall,Gertrude Cox,100Afirst
+75,3,1,1,1,0.55,Powell Library,Gertrude Cox,100Afirst
+60,3,3,0,0,0.95,Powell Library,Gertrude Cox,100Afirst
+45,1,4,0,0,0.6,Student Activities Center,Jacob Bernoulli,100Afirst
+120,0,2,0,0,0.75,Drake Track and Field Stadium,Jacob Bernoulli,100Afirst
+60,0,3,0,0,0.5,Parking Structure 7,Jacob Bernoulli,100Afirst
+35,1,3,0,1,0.75,Bruin Ealk East,Jacob Bernoulli,100Afirst
+120,0,2,0,0,0.8,Mo Ostin Basketball Center,Jacob Bernoulli,100Afirst
+60,0,3,0,0,0.5,Pauley Pavilion,Jacob Bernoulli,100Afirst
+30,2,4,1,1,0.6,Young Hall,Jacob Bernoulli,100Afirst
+30,1,4,1,1,0.6,Engineering 4,Jacob Bernoulli,100Afirst
+45,1,3,0,1,0.75,Neuroscience Research,Jacob Bernoulli,100Afirst
+25,2,4,0,1,0.35,California Nanosystems Institute,Jacob Bernoulli,100Afirst
+120,0,3,0,0,1,Boelter Hall,Jacob Bernoulli,100Afirst
+30,1,3,0,1,0.4,Boelter Hall,Jacob Bernoulli,100Afirst
+50,0,4,0,1,0,Engineering IV,Jacob Bernoulli,100Afirst
+55,1,3,0,1,0.75,Kerckhoff Coffee House ,Jacob Bernoulli,100Afirst
+90,0,4,0,1,0.1,Rendezvous Restaraunt,Jacob Bernoulli,100Afirst
+60,0,3,0,1,0.8,John Wooden Center,Jacob Bernoulli,100Afirst
+20,2,3,0,1,0.9,John Wooden Center,Jacob Bernoulli,100Afirst
+60,0,4,0,1,0.5,Dodd Hall,Jacob Bernoulli,100Afirst
+90,0,2,0,0,0.4,Kaplan Hall,Jacob Bernoulli,100Afirst
+60,1,3,0,1,0.2,Powell Library,Jacob Bernoulli,100Afirst
+90,0,3,0,1,0.3,Ackerman Union,Jacob Bernoulli,100Afirst
+60,1,3,0,1,0.4,Engineering VI,Jacob Bernoulli,100Afirst
+120,0,3,0,1,1,Dickson Plaza,Jacob Bernoulli,100Afirst
+15,2,2,0,1,0.5,Bruin Walk East,Jacob Bernoulli,100Afirst
+75,2,2,0,0,0.8,Northern Lights,Jacob Bernoulli,100Afirst
+45,0,4,1,1,0.9,Mathematical Science Building,Jacob Bernoulli,100Afirst
+90,0,3,0,1,0.7,Wallis Annenberg Stadium,Jacob Bernoulli,100Afirst
+120,0,2,0,1,0.5,John Wooden Center,Jacob Bernoulli,100Afirst
+30,1,4,1,0,0.75,Court of Sciences,Jacob Bernoulli,100Afirst
+120,0,2,0,1,0.8,Bruin Plaza,Jacob Bernoulli,100Afirst
+100,1,3,1,1,0.8,Royce Hall,Jacob Bernoulli,100Afirst
+50,0,3,1,1,0.5,Powell Library,Jacob Bernoulli,100Afirst
+75,0,4,0,1,0.5,Moore Hall,Jacob Bernoulli,100Afirst
+200,0,4,0,0,0.7,Younge Hall,Jacob Bernoulli,100Afirst
+80,1,3,1,0,0.6,Parking Structure 2,Jacob Bernoulli,100Afirst
+60,2,4,0,1,0.4,Boelter Hall,Jacob Bernoulli,100Afirst
+40,0,3,0,0,0.5,Strathmore,Jacob Bernoulli,100Afirst
+70,1,3,0,0,0.3,De Neve Commons,Jacob Bernoulli,100Afirst
+120,0,2,1,0,0.6,Rieber Hall,Jacob Bernoulli,100Afirst
+90,0,4,0,1,0.8,Reiber Terrace,Jacob Bernoulli,100Afirst
+60,1,3,0,1,0.6,Kerkhoff,Venn ,100Afirst
+95,0,3,0,1,0.8,Kerkhoff,Venn ,100Afirst
+40,2,4,0,1,0.4,Kerkhoff,Venn ,100Afirst
+120,3,4,1,1,0.7,Kerkhoff,Venn ,100Afirst
+120,1,3,1,0,0.5,Kerkhoff,Venn ,100Afirst
+30,0,2,0,0,0.3,Kerkhoff,Venn ,100Afirst
+75,0,2,0,1,0.6,Kerkhoff,Venn ,100Afirst
+180,1,3,1,0,0.8,Kerkhoff,Venn ,100Afirst
+90,1,4,0,1,0.6,Kerkhoff,Venn ,100Afirst
+150,1,3,0,0,0.9,Kerkhoff,Venn ,100Afirst
+60,1,3,0,1,0.6,Bomb Shelter,Venn ,100Afirst
+60,1,3,0,1,0.35,Bomb Shelter,Venn ,100Afirst
+60,1,3,0,1,0.4,Bomb Shelter,Venn ,100Afirst
+60,2,4,0,1,0.8,Bomb Shelter,Venn ,100Afirst
+90,0,3,0,1,0.9,Bomb Shelter,Venn ,100Afirst
+40,2,3,0,1,0.65,Bomb Shelter,Venn ,100Afirst
+60,0,3,1,0,0.7,Bomb Shelter,Venn ,100Afirst
+60,1,3,1,0,0.8,Bomb Shelter,Venn ,100Afirst
+60,0,2,0,1,0.5,Bomb Shelter,Venn ,100Afirst
+60,0,2,0,1,0.4,Bomb Shelter,Venn ,100Afirst
+60,0,4,0,1,0.2,Powell,Venn ,100Afirst
+150,1,3,0,0,0.15,Powell,Venn ,100Afirst
+90,0,3,0,1,0.5,Powell,Venn ,100Afirst
+40,0,3,0,1,0.4,Powell,Venn ,100Afirst
+60,1,3,0,0,0.75,Powell,Venn ,100Afirst
+120,0,4,0,1,0.3,Powell,Venn ,100Afirst
+90,0,2,0,0,0.8,Powell,Venn ,100Afirst
+90,0,4,0,1,0.45,Powell,Venn ,100Afirst
+60,0,3,0,1,0.4,Powell,Venn ,100Afirst
+60,1,2,0,0,0.4,Powell,Venn ,100Afirst
+90,0,3,0,1,0.7,Biomedical Research Library,Venn ,100Afirst
+75,0,4,0,1,0.4,Biomedical Research Library,Venn ,100Afirst
+60,1,2,0,0,0.5,Biomedical Research Library,Venn ,100Afirst
+45,0,3,1,1,0.25,Biomedical Research Library,Venn ,100Afirst
+120,0,3,0,0,0.5,Biomedical Research Library,Venn ,100Afirst
+60,1,2,0,0,0.75,Biomedical Research Library,Venn ,100Afirst
+60,2,3,1,1,1,Biomedical Research Library,Venn ,100Afirst
+100,0,3,1,0,0.6,Biomedical Research Library,Venn ,100Afirst
+90,0,4,0,1,0.75,Biomedical Research Library,Venn ,100Afirst
+60,3,1,0,0,0.8,Biomedical Research Library,Venn ,100Afirst
+120,0,4,0,1,0.5,Boelter,Kristine Smith,100Afirst
+90,0,2,0,0,0.25,Haines Hall,Kristine Smith,100Afirst
+70,0,3,0,0,0.25,Haines Hall,Kristine Smith,100Afirst
+60,1,2,1,1,0.6,Pritzker ,Kristine Smith,100Afirst
+120,0,2,0,0,0.2,Anderson,Kristine Smith,100Afirst
+60,0,4,0,1,0.5,Biomed Library,Kristine Smith,100Afirst
+30,2,4,0,1,0.1,Biomed Library,Kristine Smith,100Afirst
+45,0,1,1,0,0.25,Anderson,Kristine Smith,100Afirst
+85,1,2,1,1,0.75,Powell,Kristine Smith,100Afirst
+100,0,1,0,0,0.25,Wooden,Kristine Smith,100Afirst
+45,2,2,0,1,0.75,Boelter,Kristine Smith,100Afirst
+70,0,4,0,1,0.5,Engineering 6,Kristine Smith,100Afirst
+20,2,2,0,1,0.6,Young Hall,Kristine Smith,100Afirst
+107,5,1,0,1,0.3,Young Hall,Kristine Smith,100Afirst
+60,3,1,0,0,0.5,Anderson,Kristine Smith,100Afirst
+80,0,2,0,1,0.25,YRL,Kristine Smith,100Afirst
+35,0,1,0,1,0.1,Powell,Kristine Smith,100Afirst
+20,1,3,1,0,0,Kerkchoff,Kristine Smith,100Afirst
+25,0,2,0,1,0,Wooden,Kristine Smith,100Afirst
+30,1,1,1,0,1,Kerkchoff,Kristine Smith,100Afirst
+190,0,2,0,1,0.5,Wooden,Kristine Smith,100Afirst
+100,0,4,0,1,0.5,Ackerman,Kristine Smith,100Afirst
+60,0,3,0,1,0.3,Janns ,Kristine Smith,100Afirst
+60,0,1,1,0,0,Anderson,Kristine Smith,100Afirst
+90,2,3,0,0,0.5,Anderson,Kristine Smith,100Afirst
+120,0,3,0,1,0.25,Bruin Bear,Kristine Smith,100Afirst
+40,0,2,1,1,0.75,Bruin Bear,Kristine Smith,100Afirst
+100,4,1,0,0,0.6,Bruin Bear,Kristine Smith,100Afirst
+120,0,1,0,0,0,Wooden,Kristine Smith,100Afirst
+150,0,2,0,0,0.5,Wooden,Kristine Smith,100Afirst
+70,0,3,0,1,0.7,Ackerman,Persi Diaconis,100Afirst
+0,0,3,0,1,0.5,Ackerman,Persi Diaconis,100Afirst
+60,0,2,0,1,0.5,Ackerman,Persi Diaconis,100Afirst
+100,0,3,0,1,0.7,Ackerman,Persi Diaconis,100Afirst
+60,0,3,0,1,0.5,Ackerman,Persi Diaconis,100Afirst
+360,0,3,0,1,0.5,Ackerman,Persi Diaconis,100Afirst
+50,1,4,0,1,0.5,Ackerman,Persi Diaconis,100Afirst
+120,1,4,0,1,0.5,Ackerman,Persi Diaconis,100Afirst
+420,0,3,1,1,0.4,Ackerman,Persi Diaconis,100Afirst
+75,0,4,0,1,0.75,Ackerman,Persi Diaconis,100Afirst
+420,1,3,0,1,0.3,Royce,Persi Diaconis,100Afirst
+60,0,4,1,1,1,Royce,Persi Diaconis,100Afirst
+50,1,3,0,1,0.4,Royce,Persi Diaconis,100Afirst
+40,1,4,0,1,0.5,Royce,Persi Diaconis,100Afirst
+180,0,4,0,0,0,Royce,Persi Diaconis,100Afirst
+150,0,3,0,1,0.3,Royce,Persi Diaconis,100Afirst
+300,1,4,0,0,0.69,Royce,Persi Diaconis,100Afirst
+30,0,1,0,0,1,Royce,Persi Diaconis,100Afirst
+60,1,4,0,1,0.2,Royce,Persi Diaconis,100Afirst
+90,0,1,0,1,0.25,Royce,Persi Diaconis,100Afirst
+60,0,2,0,1,1,Wilson Plaza,Pierre Simon LaPlace,100Afirst
+120,2,2,0,1,0.5,Wilson Plaza,Pierre Simon LaPlace,100Afirst
+90,0,3,1,0,0.45,Wilson Plaza,Pierre Simon LaPlace,100Afirst
+60,2,3,0,0,0.6,Covel Commons,Pierre Simon LaPlace,100Afirst
+40,1,3,0,1,0.9,Covel Commons,Pierre Simon LaPlace,100Afirst
+50,2,2,0,0,0.85,Covel Commons,Pierre Simon LaPlace,100Afirst
+35,0,4,1,1,0.33,Ackerman,Pierre Simon LaPlace,100Afirst
+150,1,3,0,1,0.5,Ackerman,Pierre Simon LaPlace,100Afirst
+80,0,3,0,1,0.8,Ackmeran,Pierre Simon LaPlace,100Afirst
+75,2,2,0,0,0.85,Ackerman,Pierre Simon LaPlace,100Afirst
+60,1,4,1,1,0.5,Boelter Hall,Pierre Simon LaPlace,100Afirst
+40,2,2,1,1,0.5,Boelter Hall,Pierre Simon LaPlace,100Afirst
+75,2,1,0,0,0.7,Boelter Hall,Pierre Simon LaPlace,100Afirst
+50,3,2,1,1,0.9,Boelter Hall,Pierre Simon LaPlace,100Afirst
+45,2,3,1,0,0.4,John Wooden Center,Pierre Simon LaPlace,100Afirst
+30,2,4,0,0,0.7,John Wooden Center,Pierre Simon LaPlace,100Afirst
+40,0,3,0,1,0.5,John Wooden Center,Pierre Simon LaPlace,100Afirst
+35,1,4,1,1,0.8,Dodd Hall,Pierre Simon LaPlace,100Afirst
+50,0,4,0,1,0.6,Dodd Hall,Pierre Simon LaPlace,100Afirst
+90,0,3,1,0,0.5,Dodd Hall,Pierre Simon LaPlace,100Afirst
+60,0,4,0,1,0.75,Kerckhoff,Sir Ronald Aylmer Fisher,100Afirst
+120,0,3,0,1,0.5,Kerckhoff,Sir Ronald Aylmer Fisher,100Afirst
+65,0,4,0,1,0.75,Kerckhoff,Sir Ronald Aylmer Fisher,100Afirst
+80,0,3,0,1,0.7,Saxon,Sir Ronald Aylmer Fisher,100Afirst
+60,0,3,0,1,0.4,Young Hall,Sir Ronald Aylmer Fisher,100Afirst
+180,0,3,0,1,0.5,Young Hall,Sir Ronald Aylmer Fisher,100Afirst
+70,0,3,0,1,0.75,Rieber Vista,Sir Ronald Aylmer Fisher,100Afirst
+85,1,3,0,0,0.5,Broad Arts,Sir Ronald Aylmer Fisher,100Afirst
+120,1,3,0,0,0.85,Broad Arts,Sir Ronald Aylmer Fisher,100Afirst
+120,1,3,0,0,0.7,Bruinwalk ,Sir Ronald Aylmer Fisher,100Afirst
+90,0,4,0,1,0.75,Boelter ,Sir Ronald Aylmer Fisher,100Afirst
+60,1,3,1,1,0.7,Boelter,Sir Ronald Aylmer Fisher,100Afirst
+300,0,3,0,1,0.8,Boelter,Sir Ronald Aylmer Fisher,100Afirst
+180,0,4,1,0,1,Boelter,Sir Ronald Aylmer Fisher,100Afirst
+60,0,3,1,1,0.4,Boelter,Sir Ronald Aylmer Fisher,100Afirst
+40,0,3,1,1,0.5,Boelter ,Sir Ronald Aylmer Fisher,100Afirst
+600,0,3,1,0,0.45,Boelter,Sir Ronald Aylmer Fisher,100Afirst
+120,2,2,1,0,1,Boelter,Sir Ronald Aylmer Fisher,100Afirst
+180,1,4,1,1,1,Boelter ,Sir Ronald Aylmer Fisher,100Afirst
+60,0,4,1,1,1,Boeltar,Sir Ronald Aylmer Fisher,100Afirst
+70,1,4,0,0,0.3,Anderson,Willard Gibbs,100Afirst
+60,2,3,0,0,0.25,Broad,Willard Gibbs,100Afirst
+100,4,2,0,1,0.2,Boelter,Willard Gibbs,100Afirst
+40,0,3,1,0,0.4,Kerchoff,Willard Gibbs,100Afirst
+30,0,2,0,0,0.3,Dodd,Willard Gibbs,100Afirst
+90,3,3,0,1,0.2,Wooden,Willard Gibbs,100Afirst
+70,0,3,0,0,0.4,Pritzker,Willard Gibbs,100Afirst
+100,2,3,1,1,0.2,Dorms,Willard Gibbs,100Afirst
+30,1,2,0,0,0.1,Dorms,Willard Gibbs,100Afirst
+100,1,1,0,0,0.3,Drake,Willard Gibbs,100Afirst
+35,0,3,0,1,0.8,John Wooden Center,Willard Gibbs,100Afirst
+42.86,2,1,0,0,1,John Wooden Center,Willard Gibbs,100Afirst
+40,2,2,0,0,0.5,John Wooden Center,Willard Gibbs,100Afirst
+60,1,3,0,0,0.8,Dodd Hall,Willard Gibbs,100Afirst
+80,0,3,0,1,0.55,Dodd Hall,Willard Gibbs,100Afirst
+51.43,3,3,0,1,0.5,Dodd Hall,Willard Gibbs,100Afirst
+120,0,2,0,1,0,Young Hall,Willard Gibbs,100Afirst
+57.14,1,2,1,1,0.7,Young Hall,Willard Gibbs,100Afirst
+60,0,3,0,1,0.5,Young Hall,Willard Gibbs,100Afirst
+60,1,3,0,1,0.75,Young Hall,Willard Gibbs,100Afirst
+45,1,3,0,1,0.7,Franz Hall,Willard Gibbs,100Afirst
+30,1,2,0,1,0.8,Epicuria,Willard Gibbs,100Afirst
+50,0,2,0,0,0.5,B-Fit Center,Willard Gibbs,100Afirst
+62,2,2,0,0,0.4,Parking Lot 4,Willard Gibbs,100Afirst
+33,0,4,0,1,0.2,Sproul Cove Residence Hall,Willard Gibbs,100Afirst
+38,0,3,0,0,0.3,Kaufman Hall,Willard Gibbs,100Afirst
+43,0,3,0,0,0.7,Bruin Bear,Willard Gibbs,100Afirst
+77,0,3,1,1,0.5,John Wooden Center,Willard Gibbs,100Afirst
+68,0,3,1,1,0.2,Kerchoff ,Willard Gibbs,100Afirst
+72,0,3,0,1,0.1,Rendezvous West,Willard Gibbs,100Afirst
+95,0,3,0,0,0.4,Powell,Andrey Kolmogorov,100Afirst
+20,2,2,0,0,0.5,Powell,Andrey Kolmogorov,100Afirst
+90,5,3,0,1,0.3,Court of Sciences,Andrey Kolmogorov,100Afirst
+60,3,3,0,1,0.5,Court of Sciences,Andrey Kolmogorov,100Afirst
+50,0,4,0,1,0.5,Court of Sciences,Andrey Kolmogorov,100Afirst
+75,5,3,0,1,0.8,Court of Sciences,Andrey Kolmogorov,100Afirst
+80,4,3,0,1,0.8,Court of Sciences,Andrey Kolmogorov,100Afirst
+90,3,3,0,0,0.7,Court of Sciences,Andrey Kolmogorov,100Afirst
+25,5,2,0,1,0.5,Court of Sciences,Andrey Kolmogorov,100Afirst
+30,6,3,0,1,0.3,Court of Sciences,Andrey Kolmogorov,100Afirst
+90,0,3,1,1,0.5,YRL,Andrey Kolmogorov,100Afirst
+60,1,3,0,1,0.8,YRL,Andrey Kolmogorov,100Afirst
+60,0,4,0,1,0.5,YRL,Andrey Kolmogorov,100Afirst
+30,2,3,0,0,0.8,De Neve,Andrey Kolmogorov,100Afirst
+60,1,3,0,1,0.75,De Neve,Andrey Kolmogorov,100Afirst
+45,0,4,0,0,0.75,De Neve,Andrey Kolmogorov,100Afirst
+60,0,3,0,1,0.5,De Neve,Andrey Kolmogorov,100Afirst
+80,0,3,0,0,0.75,Ackerman,Andrey Kolmogorov,100Afirst
+90,2,3,1,1,0.8,Ackerman,Andrey Kolmogorov,100Afirst
+45,0,3,0,1,0.8,Ackerman,Andrey Kolmogorov,100Afirst
+60,3,3,1,1,0.5,Math Sciences Tunnel,Andrey Kolmogorov,100Afirst
+60,0,4,0,1,0.7,Math Sciences Tunnel,Andrey Kolmogorov,100Afirst
+45,0,3,0,1,0.7,Math Sciences Tunnel,Andrey Kolmogorov,100Afirst
+60,1,3,0,1,0.5,Math Sciences Tunnel,Andrey Kolmogorov,100Afirst
+75,3,2,0,1,0.4,Hedrick Hall,Andrey Kolmogorov,100Afirst
+60,1,3,0,0,0.7,Hedrick Hall,Andrey Kolmogorov,100Afirst
+90,2,3,0,1,0.5,Hedrick Hall,Andrey Kolmogorov,100Afirst
+60,3,4,1,0,0.6,Royce,Andrey Kolmogorov,100Afirst
+60,4,3,0,0,0.75,Royce,Andrey Kolmogorov,100Afirst
+45,0,2,0,1,0.7,Royce,Andrey Kolmogorov,100Afirst
+60,1,3,0,1,0.5,Olympic,Andrey Kolmogorov,100Afirst
+60,3,3,0,1,0.8,Olympic,Andrey Kolmogorov,100Afirst
+60,3,3,0,1,0.9,Olympic,Andrey Kolmogorov,100Afirst
+60,0,3,0,0,0.5,Olympic,Andrey Kolmogorov,100Afirst
+60,0,2,0,1,0.7,Rieber Plaza,Andrey Kolmogorov,100Afirst
+60,0,3,0,0,0.8,Rieber Plaza,Andrey Kolmogorov,100Afirst
+60,1,3,0,0,0.7,Rieber Plaza,Andrey Kolmogorov,100Afirst
+60,1,3,0,1,0.5,Rieber Plaza,Andrey Kolmogorov,100Afirst
+60,0,4,0,1,0.5,Rieber Plaza,Andrey Kolmogorov,100Afirst
+60,5,3,0,1,0.9,Rieber Plaza,Andrey Kolmogorov,100Afirst
+90,0,4,0,1,0.8,Boelter ,Blaise Pascal,100Afirst
+180,1,3,0,1,1,dorm,Blaise Pascal,100Afirst
+140,0,3,0,1,0.6,dorm,Blaise Pascal,100Afirst
+180,0,4,0,0,0.82,Kerchoff,Blaise Pascal,100Afirst
+50,1,4,0,0,1,Public Affairs Building,Blaise Pascal,100Afirst
+50,2,3,0,1,0.65,Boelter ,Blaise Pascal,100Afirst
+90,1,4,0,1,0.5,Boelter ,Blaise Pascal,100Afirst
+70,1,3,0,1,0.47,Boelter ,Blaise Pascal,100Afirst
+90,1,4,0,1,0.6,Boelter ,Blaise Pascal,100Afirst
+130,0,4,0,1,0.7,dorm,Blaise Pascal,100Afirst
+40,0,4,1,1,0.75,Young Hall,Blaise Pascal,100Afirst
+70,2,3,0,1,0.5,Young Hall,Blaise Pascal,100Afirst
+120,4,1,0,0,0.8,Young Hall,Blaise Pascal,100Afirst
+40,3,4,1,1,0.4,LS Building,Blaise Pascal,100Afirst
+90,1,1,1,0,0.4,Bunche Hall,Blaise Pascal,100Afirst
+70,0,2,0,0,0.6,Young Hall,Blaise Pascal,100Afirst
+45,0,4,1,1,0.33,Bunche Hall,Blaise Pascal,100Afirst
+40,2,3,1,1,0.5,Drake Stadium,Blaise Pascal,100Afirst
+60,3,3,1,0,0.6,Drake Stadium,Blaise Pascal,100Afirst
+50,3,2,0,1,0.7,LS Building,Blaise Pascal,100Afirst
+90,1,3,0,1,0.5,Sculpture Garden,Blaise Pascal,100Afirst
+60,0,3,0,1,0.6,Sculpture Garden,Blaise Pascal,100Afirst
+20,1,3,0,0,0.5,Sculpture Garden,Blaise Pascal,100Afirst
+90,2,3,1,1,0.5,Sculpture Garden,Blaise Pascal,100Afirst
+90,4,3,0,0,0.3,Public Affairs,Blaise Pascal,100Afirst
+60,0,3,0,1,0.5,Public Affairs,Blaise Pascal,100Afirst
+60,1,2,0,0,0.5,Public Affairs,Blaise Pascal,100Afirst
+120,2,3,1,0,0.6,Broad Arts Center,Blaise Pascal,100Afirst
+30,3,3,0,1,0.6,Broad Arts Center,Blaise Pascal,100Afirst
+60,1,3,0,1,0.5,Broad Arts Center,Blaise Pascal,100Afirst
+120,0,3,0,1,0.75,Bruin Walk,Blaise Pascal,100Afirst
+60,0,4,0,0,0.8,Bruin Walk,Blaise Pascal,100Afirst
+70,1,2,0,1,0.7,Hedrick Summit,Blaise Pascal,100Afirst
+90,2,3,0,1,0.6,Hedrick Summit,Blaise Pascal,100Afirst
+60,1,2,0,1,0.8,Anderson,Blaise Pascal,100Afirst
+90,0,4,1,0,0.7,Anderson,Blaise Pascal,100Afirst
+100,1,1,0,0,0.6,Botanical Gardens,Blaise Pascal,100Afirst
+90,0,1,1,1,0.65,Botanical Gardens,Blaise Pascal,100Afirst
+90,1,4,0,0,0.5,Royce Hall,Blaise Pascal,100Afirst
+60,0,4,0,1,0.8,Royce Hall,Blaise Pascal,100Afirst
+45,1,3,0,1,0.7,Inverted Fountain,Carl Friedrich Gauss,100Afirst
+60,0,3,0,1,0.85,Inverted Fountain,Carl Friedrich Gauss,100Afirst
+45,1,3,0,0,0.7,Inverted Fountain,Carl Friedrich Gauss,100Afirst
+45,1,2,1,0,0.5,Inverted Fountain,Carl Friedrich Gauss,100Afirst
+50,3,3,0,1,0.75,Inverted Fountain,Carl Friedrich Gauss,100Afirst
+60,1,4,1,1,0.6,Inverted Fountain,Carl Friedrich Gauss,100Afirst
+60,2,4,0,1,0.65,Inverted Fountain,Carl Friedrich Gauss,100Afirst
+120,2,2,1,1,0.9,Inverted Fountain,Carl Friedrich Gauss,100Afirst
+60,0,2,0,1,0.8,Inverted Fountain,Carl Friedrich Gauss,100Afirst
+50,1,2,1,1,0.5,inverted Fountain,Carl Friedrich Gauss,100Afirst
+30,2,3,1,0,0.5,Dickson Plaza,Carl Friedrich Gauss,100Afirst
+40,3,3,0,1,0.8,Dickson Plaza,Carl Friedrich Gauss,100Afirst
+90,1,4,0,0,0.75,Dickson Plaza,Carl Friedrich Gauss,100Afirst
+45,0,2,0,0,0.6,Dickson Plaza,Carl Friedrich Gauss,100Afirst
+60,1,4,0,1,0.75,Dickson Plaza,Carl Friedrich Gauss,100Afirst
+75,0,3,0,1,0.8,Wilson Plaza,Carl Friedrich Gauss,100Afirst
+45,0,2,1,0,0.7,Wilson Plaza,Carl Friedrich Gauss,100Afirst
+60,2,4,0,1,0.75,Wilson Plaza,Carl Friedrich Gauss,100Afirst
+50,1,2,0,1,0.5,Wilson Plaza,Carl Friedrich Gauss,100Afirst
+60,2,2,0,0,0.65,Wilson Plaza,Carl Friedrich Gauss,100Afirst
+80,2,3,1,1,0.65,Perloff Hall,Carl Friedrich Gauss,100Afirst
+45,1,2,0,1,0.8,Perloff Hall,Carl Friedrich Gauss,100Afirst
+120,3,4,0,1,0.4,Perloff Hall,Carl Friedrich Gauss,100Afirst
+30,0,1,1,0,0.9,Perloff Hall,Carl Friedrich Gauss,100Afirst
+60,2,3,0,1,0.75,Perloff Hall,Carl Friedrich Gauss,100Afirst
+90,4,2,0,0,0.5,Perloff Hall,Carl Friedrich Gauss,100Afirst
+20,1,1,1,1,0.3,Perloff Hall,Carl Friedrich Gauss,100Afirst
+75,0,4,0,1,0.2,Perloff Hall,Carl Friedrich Gauss,100Afirst
+50,2,3,1,0,0.6,Perloff Hall,Carl Friedrich Gauss,100Afirst
+100,3,3,0,1,0.85,Perloff Hall,Carl Friedrich Gauss,100Afirst
+60,1,4,0,1,0.4,Janss,Christine Darden,100Afirst
+60,1,3,0,0,0.4,Dorms,Christine Darden,100Afirst
+60,0,4,0,1,0.5,Boelter,Christine Darden,100Afirst
+60,1,3,0,1,0.5,Anderson,Christine Darden,100Afirst
+60,0,2,0,1,1,Wooden,Christine Darden,100Afirst
+60,1,4,0,1,1,Kerchoff,Christine Darden,100Afirst
+80,1,3,0,1,0.7,Ackerman,Christine Darden,100Afirst
+60,0,3,0,1,0.8,Wooden,Christine Darden,100Afirst
+60,1,3,0,1,1,Court of sciences,Christine Darden,100Afirst
+120,0,3,0,1,1,Court of sciences,Christine Darden,100Afirst
+180,1,4,0,0,0.5,SAC,Christine Darden,100Afirst
+90,0,3,0,1,1,Janss,Christine Darden,100Afirst
+120,1,2,0,1,0.8,Ackerman,Christine Darden,100Afirst
+60,2,2,0,0,0.7,Mathematical Sciences,Christine Darden,100Afirst
+85,1,4,0,1,0.5,Centennial Hall,Florence Nightingale,100Afirst
+100,0,4,0,1,0.4,Centennial Hall,Florence Nightingale,100Afirst
+75,0,3,0,1,0.4,Centennial Hall,Florence Nightingale,100Afirst
+80,0,4,0,1,0.6,Centennial Hall,Florence Nightingale,100Afirst
+90,0,3,0,0,0.6,Centennial Hall,Florence Nightingale,100Afirst
+60,0,4,0,0,0.8,Centennial Hall,Florence Nightingale,100Afirst
+100,2,4,1,1,0.5,Centennial Hall,Florence Nightingale,100Afirst
+90,0,4,0,1,0.6,Centennial Hall,Florence Nightingale,100Afirst
+60,0,4,0,1,0.95,Centennial Hall,Florence Nightingale,100Afirst
+40,1,4,0,0,0.95,Centennial Hall,Florence Nightingale,100Afirst
+40,1,4,0,1,0.5,Renée and David Kaplan Hall,Florence Nightingale,100Afirst
+65,0,3,0,1,0.7,Renée and David Kaplan Hall,Florence Nightingale,100Afirst
+70,1,3,0,1,0.75,Renée and David Kaplan Hall,Florence Nightingale,100Afirst
+60,2,3,1,1,0.6,Renée and David Kaplan Hall,Florence Nightingale,100Afirst
+50,0,2,0,1,0.7,Renée and David Kaplan Hall,Florence Nightingale,100Afirst
+70,1,3,0,1,0.8,Renée and David Kaplan Hall,Florence Nightingale,100Afirst
+60,0,3,0,1,0.55,Renée and David Kaplan Hall,Florence Nightingale,100Afirst
+75,1,4,0,1,0.4,Renée and David Kaplan Hall,Florence Nightingale,100Afirst
+80,0,3,0,1,0.5,Renée and David Kaplan Hall,Florence Nightingale,100Afirst
+100,0,4,0,1,0.5,Renée and David Kaplan Hall,Florence Nightingale,100Afirst
+30,3,3,0,1,0.4,Mathematical Sciences,Florence Nightingale,100Afirst
+60,1,3,0,1,0.8,Mathematical Sciences,Florence Nightingale,100Afirst
+50,0,3,1,0,0.7,Mathematical Sciences,Florence Nightingale,100Afirst
+40,1,3,1,1,0.7,Mathematical Sciences,Florence Nightingale,100Afirst
+20,1,3,1,1,0.5,Mathematical Sciences,Florence Nightingale,100Afirst
+120,2,4,1,1,0.7,Mathematical Sciences,Florence Nightingale,100Afirst
+40,2,4,1,1,1,Mathematical Sciences,Florence Nightingale,100Afirst
+60,1,3,1,1,0.3,Mathematical Sciences,Florence Nightingale,100Afirst
+135,2,4,0,0,0.5,Mathematical Sciences,Florence Nightingale,100Afirst
+60,0,3,0,1,0.5,Mathematical Sciences,Florence Nightingale,100Afirst
+60,1,4,0,1,1,Bruin Plaza,Simeon-Davis Poisson,100Afirst
+30,2,3,0,0,0.75,Bruin Plaza,Simeon-Davis Poisson,100Afirst
+60,0,3,0,1,1,Bruin Plaza,Simeon-Davis Poisson,100Afirst
+75,0,4,1,0,0.9,Bruin Plaza,Simeon-Davis Poisson,100Afirst
+120,0,3,1,1,0.6,Bruin Plaza,Simeon-Davis Poisson,100Afirst
+45,2,2,0,1,0.5,Bruin Plaza,Simeon-Davis Poisson,100Afirst
+90,1,4,0,1,0.95,Bruin Plaza,Simeon-Davis Poisson,100Afirst
+30,0,4,1,1,0.9,Bruin Plaza,Simeon-Davis Poisson,100Afirst
+45,0,3,0,1,0.6,Bruin Plaza,Simeon-Davis Poisson,100Afirst
+60,0,4,1,0,1,Bruin Plaza,Simeon-Davis Poisson,100Afirst
+30,2,3,0,1,0.75,Powell Library,Simeon-Davis Poisson,100Afirst
+20,0,2,0,1,1,Powell Library,Simeon-Davis Poisson,100Afirst
+50,0,4,0,1,0.5,Powell Library,Simeon-Davis Poisson,100Afirst
+30,0,3,1,0,0.75,Powell Library,Simeon-Davis Poisson,100Afirst
+45,1,4,0,0,0.9,Powell Library,Simeon-Davis Poisson,100Afirst
+60,1,3,1,1,0.8,Powell Library,Simeon-Davis Poisson,100Afirst
+20,0,3,0,0,0.6,Powell Library,Simeon-Davis Poisson,100Afirst
+40,1,3,0,1,0.5,Powell Library,Simeon-Davis Poisson,100Afirst
+50,1,4,0,0,0.2,Powell Library,Simeon-Davis Poisson,100Afirst
+30,0,2,1,1,0.5,Powell Library,Simeon-Davis Poisson,100Afirst
+40,7,3,0,1,0.6,Dykstra Hall,Simeon-Davis Poisson,100Afirst
+45,7,3,0,1,0.5,Dykstra Hall,Simeon-Davis Poisson,100Afirst
+75,1,4,0,1,1,Dykstra Hall,Simeon-Davis Poisson,100Afirst
+30,0,2,0,0,0.8,Dykstra Hall,Simeon-Davis Poisson,100Afirst
+45,4,3,0,1,0.8,Dykstra Hall,Simeon-Davis Poisson,100Afirst
+60,0,3,0,0,0.6,Dykstra Hall,Simeon-Davis Poisson,100Afirst
+60,0,3,0,0,0.6,Dykstra Hall,Simeon-Davis Poisson,100Afirst
+45,0,4,0,1,1,Dykstra Hall,Simeon-Davis Poisson,100Afirst
+30,0,2,0,0,0,Dykstra Hall,Simeon-Davis Poisson,100Afirst
+60,0,4,0,1,0.6,Dykstra Hall,Simeon-Davis Poisson,100Afirst
+20,1,2,0,1,0.4,Court of Sciences,Simeon-Davis Poisson,100Afirst
+40,1,3,0,0,0.6,Court of Sciences,Simeon-Davis Poisson,100Afirst
+50,0,3,0,1,1,Court of Sciences,Simeon-Davis Poisson,100Afirst
+45,0,1,0,1,0.2,Court of Sciences,Simeon-Davis Poisson,100Afirst
+60,0,4,1,1,0.5,Court of Sciences,Simeon-Davis Poisson,100Afirst
+30,2,2,0,1,0.6,Court of Sciences,Simeon-Davis Poisson,100Afirst
+30,1,1,0,0,0.3,Court of Sciences,Simeon-Davis Poisson,100Afirst
+60,0,2,1,0,0.5,Court of Sciences,Simeon-Davis Poisson,100Afirst
+70,0,4,0,1,0.75,Court of Sciences,Simeon-Davis Poisson,100Afirst
+40,1,3,0,1,0.5,Court of Sciences,Simeon-Davis Poisson,100Afirst
+90,0,4,1,1,1,John Wooden Center,Leonard Euler,100Afirst
+60,2,3,0,0,0.5,John Wooden Center,Leonard Euler,100Afirst
+72,2,4,0,1,0.2,John Wooden Center,Leonard Euler,100Afirst
+45,4,3,1,0,0.9,John Wooden Center,Leonard Euler,100Afirst
+10,0,1,0,0,0,John Wooden Center,Leonard Euler,100Afirst
+84,0,3,1,1,0.7,John Wooden Center,Leonard Euler,100Afirst
+5,3,2,0,0,0.4,John Wooden Center,Leonard Euler,100Afirst
+20,1,3,1,0,0.8,John Wooden Center,Leonard Euler,100Afirst
+35,2,2,0,1,0,John Wooden Center,Leonard Euler,100Afirst
+66,1,4,1,1,1,John Wooden Center,Leonard Euler,100Afirst
+45,0,2,0,1,0.35,IM Field,Leonard Euler,100Afirst
+120,1,2,0,1,0.75,IM Field,Leonard Euler,100Afirst
+60,0,3,0,1,0.7,IM Field,Leonard Euler,100Afirst
+60,0,3,0,1,0.6,IM Field,Leonard Euler,100Afirst
+120,0,3,0,1,0.6,IM Field,Leonard Euler,100Afirst
+60,0,4,0,1,0.6,IM Field,Leonard Euler,100Afirst
+60,3,3,1,1,0.9,IM Field,Leonard Euler,100Afirst
+60,0,3,1,1,1,IM Field,Leonard Euler,100Afirst
+90,1,4,1,0,0,IM Field,Leonard Euler,100Afirst
+60,0,3,1,1,0,IM Field,Leonard Euler,100Afirst
+150,0,4,1,0,1,Inverted Fountain,Leonard Euler,100Afirst
+20,1,3,1,1,0.5,Inverted Fountain,Leonard Euler,100Afirst
+35,0,4,0,0,1,Inverted Fountain,Leonard Euler,100Afirst
+90,0,4,0,1,0.75,Inverted Fountain,Leonard Euler,100Afirst
+40,0,3,0,1,0.8,Inverted Fountain,Leonard Euler,100Afirst
+120,0,3,0,1,1,Inverted Fountain,Leonard Euler,100Afirst
+50,1,4,1,1,0.6,Inverted Fountain,Leonard Euler,100Afirst
+60,0,2,0,0,0.75,Inverted Fountain,Leonard Euler,100Afirst
+150,0,3,0,1,0.4,Inverted Fountain,Leonard Euler,100Afirst
+60,0,3,0,0,0.75,Inverted Fountain,Leonard Euler,100Afirst
+50,0,3,0,1,0.55,Molecular Science Building,Augustus de Morgen,100Afirst
+60,0,4,0,1,0.6,Neuroscience Building,Augustus de Morgen,100Afirst
+70,0,4,1,1,0.6,Boelter,Augustus de Morgen,100Afirst
+60,1,3,0,1,0.5,De Neve,Augustus de Morgen,100Afirst
+60,0,4,0,1,1,De Neve ,Augustus de Morgen,100Afirst
+60,0,3,0,0,0.7,Bunche,Augustus de Morgen,100Afirst
+40,1,3,0,0,1,Bruinwalk,Augustus de Morgen,100Afirst
+90,0,4,0,1,0.8,Bruinwalk,Augustus de Morgen,100Afirst
+50,1,2,0,0,0.5,Powell,Augustus de Morgen,100Afirst
+60,0,4,0,0,0.75,Kerchkoff,Augustus de Morgen,100Afirst
+100,2,4,0,1,0.2,Hedrick Summit,Augustus de Morgen,100Afirst
+80,1,4,1,0,0.4,Covel,Augustus de Morgen,100Afirst
+70,0,3,0,0,0.5,Covel,Augustus de Morgen,100Afirst
+80,0,4,0,1,0.4,Rolfe Hall,Augustus de Morgen,100Afirst
+50,0,4,0,0,0.8,Rolfe Hall,Augustus de Morgen,100Afirst
+60,1,4,0,1,0.7,Kaplan Hall,Augustus de Morgen,100Afirst
+90,2,3,1,0,0.6,Sunset Village,Augustus de Morgen,100Afirst
+50,0,4,0,1,0.3,Sunset Village,Augustus de Morgen,100Afirst
+80,0,3,0,0,0.9,Rieber,Augustus de Morgen,100Afirst
+90,1,4,0,1,0.8,Rieber,Augustus de Morgen,100Afirst
+120,3,4,1,0,0.6,Powell,Augustus de Morgen,100Afirst
+75,0,2,0,0,0.7,Kerckhoff,Augustus de Morgen,100Afirst
+90,2,4,1,1,0.4,Boelter ,Augustus de Morgen,100Afirst
+120,0,4,0,0,0.75,Inv. Fountain,Augustus de Morgen,100Afirst
+90,2,3,0,1,0.5,Dickson Court,Augustus de Morgen,100Afirst
+75,1,2,1,1,0.8,Bunche,Augustus de Morgen,100Afirst
+100,0,3,0,0,0.6,YRL,Augustus de Morgen,100Afirst
+90,1,2,0,0,0.3,Royce,Augustus de Morgen,100Afirst
+60,0,3,0,1,0.2,Wilson Plaza,Augustus de Morgen,100Afirst
+50,2,3,0,0,0.5,Bruin Plaza,Augustus de Morgen,100Afirst
+120,1,4,0,0,1,LuValle Commons,David Blackwell,100Afirst
+45,2,4,0,1,0.75,LuValle Commons,David Blackwell,100Afirst
+120,0,3,0,1,0.67,LuValle Commons,David Blackwell,100Afirst
+80,4,4,0,1,0.25,LuValle Commons,David Blackwell,100Afirst
+40,3,3,1,0,0.7,LuValle Commons,David Blackwell,100Afirst
+120,1,3,0,0,0.5,LuValle Commons,David Blackwell,100Afirst
+60,0,2,0,1,0,LuValle Commons,David Blackwell,100Afirst
+90,0,3,1,0,1,LuValle Commons,David Blackwell,100Afirst
+50,1,1,0,0,0.4,LuValle Commons,David Blackwell,100Afirst
+80,1,4,0,1,0.8,LuValle Commons,David Blackwell,100Afirst
+60,1,2,0,1,0.7,BruinWalk,David Blackwell,100Afirst
+130,0,3,0,1,0.9,BruinWalk,David Blackwell,100Afirst
+120,3,3,0,1,0.5,BruinWalk,David Blackwell,100Afirst
+120,0,4,0,1,0.69,BruinWalk,David Blackwell,100Afirst
+120,1,4,0,1,0.7,BruinWalk,David Blackwell,100Afirst
+50,0,4,1,1,0.65,BruinWalk,David Blackwell,100Afirst
+180,0,3,0,1,0.8,BruinWalk,David Blackwell,100Afirst
+75,1,3,0,0,0.6,BruinWalk,David Blackwell,100Afirst
+30,1,3,1,1,0.95,BruinWalk,David Blackwell,100Afirst
+60,0,2,0,1,0.5,BruinWalk,David Blackwell,100Afirst
+100,1,4,0,1,0.4,Court of Sciences,David Blackwell,100Afirst
+140,1,3,0,0,0.5,Court of Sciences,David Blackwell,100Afirst
+50,1,4,0,1,0.4,Court of Sciences,David Blackwell,100Afirst
+80,2,3,1,1,0.7,Court of Sciences,David Blackwell,100Afirst
+120,0,1,0,0,0.45,Court of Sciences,David Blackwell,100Afirst
+45,1,3,1,1,0.15,Court of Sciences,David Blackwell,100Afirst
+30,2,2,0,1,0.75,Court of Sciences,David Blackwell,100Afirst
+90,0,4,0,1,0.6,Court of Sciences,David Blackwell,100Afirst
+100,2,4,0,1,0.35,Court of Sciences,David Blackwell,100Afirst
+40,0,3,0,1,0.9,Court of Sciences,David Blackwell,100Afirst
+180,0,4,0,1,0.7,Ackerman,David Blackwell,100Afirst
+50,1,4,0,1,0.7,Ackerman,David Blackwell,100Afirst
+50,0,3,0,0,0.7,Ackerman,David Blackwell,100Afirst
+180,1,4,0,1,0.6,Ackerman,David Blackwell,100Afirst
+180,1,4,0,1,0.6,Ackerman,David Blackwell,100Afirst
+90,0,3,0,0,1,Ackerman,David Blackwell,100Afirst
+60,1,2,0,0,0.7,Ackerman,David Blackwell,100Afirst
+100,3,4,0,1,0.5,Ackerman,David Blackwell,100Afirst
+190,2,4,0,0,0.8,Ackerman,David Blackwell,100Afirst
+105,0,3,0,1,0.5,Ackerman,David Blackwell,100Afirst
+120,0,4,0,1,0.75,Inverted Fountain,Lauren Klien,100Afirst
+90,0,3,0,1,0.9,Inverted Fountain,Lauren Klien,100Afirst
+40,1,4,0,1,1,Dickson Court,Lauren Klien,100Afirst
+60,1,4,0,1,0.25,Royce Hall,Lauren Klien,100Afirst
+60,0,4,0,0,1,Inverted Fountain,Lauren Klien,100Afirst
+60,2,3,0,0,1,Royce Hall,Lauren Klien,100Afirst
+45,1,2,0,1,0.8,Music Building,Lauren Klien,100Afirst
+0,0,4,0,1,0.05,Sculpture Garden,Lauren Klien,100Afirst
+150,1,1,1,0,0.6,Inverted Fountain,Lauren Klien,100Afirst
+90,1,2,0,1,0.4,John Wooden Center,Lauren Klien,100Afirst
+20,0,3,1,1,0.75,John Wooden Center,Lauren Klien,100Afirst
+60,0,2,1,1,0.5,John Wooden Center,Lauren Klien,100Afirst
+60,1,1,0,1,0.3,John Wooden Center,Lauren Klien,100Afirst
+80,1,2,0,0,0.4,John Wooden Center,Lauren Klien,100Afirst
+60,1,3,1,1,0.4,John Wooden Center,Lauren Klien,100Afirst
+60,0,2,0,1,0.45,John Wooden Center,Lauren Klien,100Afirst
+120,1,2,0,1,0.7,John Wooden Center,Lauren Klien,100Afirst
+60,2,2,0,1,0.5,John Wooden Center,Lauren Klien,100Afirst
+90,0,3,0,1,0.6,John Wooden Center,Lauren Klien,100Afirst
+100,0,2,0,1,0.9,Pauley,Lauren Klien,100Afirst
+60,0,4,0,1,0.5,Pauley,Lauren Klien,100Afirst
+720,1,3,0,1,0.8,Pauley,Lauren Klien,100Afirst
+120,1,4,1,0,1,Pauley,Lauren Klien,100Afirst
+180,0,4,0,0,0.62,Pauley,Lauren Klien,100Afirst
+60,1,2,0,1,0.53,Pauley,Lauren Klien,100Afirst
+120,1,3,0,1,1,Pauley,Lauren Klien,100Afirst
+45,1,3,0,0,0.7,Pauley,Lauren Klien,100Afirst
+120,2,4,0,1,0.55,Pauley,Lauren Klien,100Afirst
+100,0,1,0,0,0.9,Pauley,Lauren Klien,100Afirst
+140,0,3,0,1,0.65,Sunset Village,Lauren Klien,100Afirst
+110,0,2,0,1,0.6,Centennial,Lauren Klien,100Afirst
+90,1,3,1,1,0.5,Boelter,Lauren Klien,100Afirst
+130,2,3,0,0,0.8,Bruin Walk East,Lauren Klien,100Afirst
+40,1,2,0,1,1,Dodd,Lauren Klien,100Afirst
+90,1,3,0,0,0.9,Engineering VI,Lauren Klien,100Afirst
+80,0,1,0,0,0.75,Kerckhoff,Lauren Klien,100Afirst
+170,3,4,0,0,0.5,Broad Art Center,Lauren Klien,100Afirst
+60,0,2,1,1,0.6,Ackerman Union,Lauren Klien,100Afirst
+100,1,3,0,0,0.5,Young Library,Lauren Klien,100Afirst
+105,3,3,0,1,1,Sproul Cove,Andrey Markov,100Asecond
+240,1,3,0,1,1,Sproul Hall,Andrey Markov,100Asecond
+80,0,2,0,1,0.4,Sproul Hall,Andrey Markov,100Asecond
+40,3,1,0,0,0.6,Sproul Hall,Andrey Markov,100Asecond
+45,0,4,0,1,1,Hedrick Hall,Andrey Markov,100Asecond
+90,6,1,0,0,0.8,Hedrick Hall,Andrey Markov,100Asecond
+60,5,2,0,1,0.2,Centennial ,Andrey Markov,100Asecond
+120,2,3,0,0,0.8,Centennial ,Andrey Markov,100Asecond
+150,0,1,0,0,0.7,Bplate,Andrey Markov,100Asecond
+100,3,1,1,1,0.3,Rieber Hall,Andrey Markov,100Asecond
+30,2,3,0,1,0.75,Sproul Hall,Andrey Markov,100Asecond
+45,1,2,1,0,1,Boelter Hall,Andrey Markov,100Asecond
+45,5,1,0,1,0.9,Engineering VI,Andrey Markov,100Asecond
+60,0,2,0,1,0.95,Engineering IV,Andrey Markov,100Asecond
+15,6,4,0,0,1,Dodd Hall,Andrey Markov,100Asecond
+15,0,1,0,0,0.8,Anderson Hall,Andrey Markov,100Asecond
+70,2,1,0,1,0.5,Royce Hall,Andrey Markov,100Asecond
+30,4,3,0,1,0.4,Powell Library,Andrey Markov,100Asecond
+45,2,2,0,0,0.7,Boelter Hall,Andrey Markov,100Asecond
+85,1,4,1,1,0.2,Engineering VI,Andrey Markov,100Asecond
+90,0,3,0,1,0.6,Lu Valle,Andrey Markov,100Asecond
+60,0,3,0,1,0.5,Lu Valle,Andrey Markov,100Asecond
+50,0,3,0,1,0.5,Pritzker Hall,Andrey Markov,100Asecond
+45,0,4,0,1,1,Pritzker Hall,Andrey Markov,100Asecond
+60,2,2,0,1,0.75,Pritzker Hall,Andrey Markov,100Asecond
+30,1,4,0,0,0.5,Lu Valle,Andrey Markov,100Asecond
+40,0,3,0,0,0.8,Lu Valle,Andrey Markov,100Asecond
+45,2,2,0,1,0.95,Lu Valle,Andrey Markov,100Asecond
+35,0,3,0,1,0.75,Lu Valle,Andrey Markov,100Asecond
+75,1,4,0,1,0.5,Lu Valle,Andrey Markov,100Asecond
+250,1,3,0,1,0.23,hill,gauss,100Asecond
+60,0,3,0,1,0.75,hill,gauss,100Asecond
+60,1,4,0,1,0.5,hill,gauss,100Asecond
+90,1,2,0,1,0.8,hill,gauss,100Asecond
+140,0,3,0,1,0.99,hill,gauss,100Asecond
+40,2,1,0,0,0.4,hill,gauss,100Asecond
+30,0,2,0,1,0.15,hill,gauss,100Asecond
+100,3,4,0,1,0.2,hill,gauss,100Asecond
+80,1,3,1,0,0.35,hill,gauss,100Asecond
+150,0,3,0,0,0.6,hill,gauss,100Asecond
+120,1,4,0,0,0.75,Sculpture Garden,Weibull,100Asecond
+120,0,3,0,0,0.75,Sculpture Garden,Weibull,100Asecond
+45,0,3,0,0,0.99,Sculpture Garden,Weibull,100Asecond
+100,0,4,0,1,0.75,Sculpture Garden,Weibull,100Asecond
+180,1,2,1,0,0.5,Sculpture Garden,Weibull,100Asecond
+50,1,3,0,0,1,Sculpture Garden,Weibull,100Asecond
+100,1,3,0,0,1,Sculpture Garden,Weibull,100Asecond
+90,0,3,0,0,0.9,Sculpture Garden,Weibull,100Asecond
+60,1,4,0,1,0.75,Sculpture Garden,Weibull,100Asecond
+30,0,2,0,0,0.65,Sculpture Garden,Weibull,100Asecond
+120,1,3,0,0,0.8,Bruinwalk,Weibull,100Asecond
+100,0,3,1,1,0.8,Bruinwalk,Weibull,100Asecond
+110,0,3,0,1,0.8,Bruinwalk,Weibull,100Asecond
+90,1,3,0,1,0.8,Bruinwalk,Weibull,100Asecond
+60,1,4,0,1,0.7,Bruinwalk,Weibull,100Asecond
+70,1,4,0,0,0.75,Bruinwalk,Weibull,100Asecond
+100,1,2,0,1,0.9,Bruinwalk,Weibull,100Asecond
+80,1,4,0,0,0.8,Bruinwalk,Weibull,100Asecond
+85,1,4,0,0,1,Bruinwalk,Weibull,100Asecond
+70,1,4,1,0,0.85,Bruinwalk,Weibull,100Asecond
+45,1,3,0,1,0.7,Boelter ,Kiyoshi Ito,100Asecond
+15,4,4,1,1,0.5,Boelter ,Kiyoshi Ito,100Asecond
+30,2,3,0,1,0.6,Boelter ,Kiyoshi Ito,100Asecond
+40,2,3,0,1,0.5,Boelter ,Kiyoshi Ito,100Asecond
+30,1,3,0,1,0.7,Boelter ,Kiyoshi Ito,100Asecond
+20,3,3,1,0,0.5,Wooden,Kiyoshi Ito,100Asecond
+60,0,2,0,1,0.2,Wooden,Kiyoshi Ito,100Asecond
+50,2,2,0,0,0.8,Wooden,Kiyoshi Ito,100Asecond
+100,0,3,0,0,0.7,Wooden,Kiyoshi Ito,100Asecond
+60,1,3,0,1,0.7,Wooden,Kiyoshi Ito,100Asecond
+90,0,3,0,0,0.5,Bunche,Kiyoshi Ito,100Asecond
+70,2,2,0,0,0.7,Bunche,Kiyoshi Ito,100Asecond
+40,2,4,0,0,0.6,Bunche ,Kiyoshi Ito,100Asecond
+55,1,4,0,1,0.7,Bunche,Kiyoshi Ito,100Asecond
+60,0,3,1,0,0.4,Bunche,Kiyoshi Ito,100Asecond
+45,3,4,0,0,0.5,Kerckhoff,Kiyoshi Ito,100Asecond
+45,4,4,0,1,0.6,Kerckhoff,Kiyoshi Ito,100Asecond
+60,3,4,0,1,0.5,Kerckhoff,Kiyoshi Ito,100Asecond
+80,1,3,0,0,0.7,Kerckhoff,Kiyoshi Ito,100Asecond
+65,1,4,0,1,0.6,Kerckhoff,Kiyoshi Ito,100Asecond
+45,0,4,0,1,0.5,Math&Science,Kiyoshi Ito,100Asecond
+50,0,1,0,1,0.6,Math&Science,Kiyoshi Ito,100Asecond
+30,1,4,1,0,0.2,Math&Science,Kiyoshi Ito,100Asecond
+35,0,3,0,1,0.3,Ackerman ,Kiyoshi Ito,100Asecond
+30,0,4,0,1,1,Ackerman,Kiyoshi Ito,100Asecond
+30,7,4,0,1,0.8,Ackerman,Kiyoshi Ito,100Asecond
+60,0,2,0,1,0.5,Ackerman,Kiyoshi Ito,100Asecond
+40,0,4,0,1,1,Bruinwalk Ackerman,Kiyoshi Ito,100Asecond
+100,1,2,0,1,0.4,Pauley Pavillion,Kiyoshi Ito,100Asecond
+60,1,4,0,1,0.5,Pauley Pavillion,Kiyoshi Ito,100Asecond
+60,1,3,0,1,0.81,De Neve Residential Plaza,Lawrence D. Stone,100Asecond
+50,4,4,0,1,0.3,De Neve Residential Plaza,Lawrence D. Stone,100Asecond
+30,2,2,0,1,0,De Neve Residential Plaza,Lawrence D. Stone,100Asecond
+25,0,2,0,1,0.5,De Neve Residential Plaza,Lawrence D. Stone,100Asecond
+71,4,1,0,1,0,Rieber Hall,Lawrence D. Stone,100Asecond
+40,2,1,0,1,0.4,Rieber Hall,Lawrence D. Stone,100Asecond
+90,1,2,0,1,0.2,Rieber Hall,Lawrence D. Stone,100Asecond
+35,0,4,0,0,0.5,Sunset Villege,Lawrence D. Stone,100Asecond
+30,2,4,0,0,1,Sunset Villege,Lawrence D. Stone,100Asecond
+55,2,4,0,1,0.5,Sunset Villege,Lawrence D. Stone,100Asecond
+20,1,3,1,1,0.3,Powell library,Lawrence D. Stone,100Asecond
+34,0,3,0,1,0.2,Powell library,Lawrence D. Stone,100Asecond
+27,2,3,1,1,0.4,Powell library,Lawrence D. Stone,100Asecond
+50,1,3,0,1,0.5,Powell library,Lawrence D. Stone,100Asecond
+70,0,1,0,0,0.3,Powell library,Lawrence D. Stone,100Asecond
+25,0,2,0,1,0.4,Powell library,Lawrence D. Stone,100Asecond
+40,2,4,0,1,0.7,John Wooden Center,Lawrence D. Stone,100Asecond
+40,4,3,0,1,0.3,John Wooden Center,Lawrence D. Stone,100Asecond
+55,1,3,0,1,0.2,John Wooden Center,Lawrence D. Stone,100Asecond
+30,0,3,1,1,0.4,John Wooden Center,Lawrence D. Stone,100Asecond
+40,0,2,0,0,0.7,Henry Samueli School of Engineering,Lawrence D. Stone,100Asecond
+80,2,1,1,0,0.4,Henry Samueli School of Engineering,Lawrence D. Stone,100Asecond
+35,2,1,0,1,0.1,Henry Samueli School of Engineering,Lawrence D. Stone,100Asecond
+43,4,3,0,1,0.45,Ackerman Union,Lawrence D. Stone,100Asecond
+65,0,2,1,1,0.3,Ackerman Union,Lawrence D. Stone,100Asecond
+40,0,2,0,1,0.3,Royce hall,Lawrence D. Stone,100Asecond
+25,2,1,0,1,0.4,Royce hall,Lawrence D. Stone,100Asecond
+45,1,3,0,1,0.3,Royce hall,Lawrence D. Stone,100Asecond
+55,0,2,1,1,0.3,Royce hall,Lawrence D. Stone,100Asecond
+40,3,3,0,1,0.7,Royce hall,Lawrence D. Stone,100Asecond
+120,1,2,0,0,0.7,Gayley-Strathmore Intersection,Mona Chalabi,100Asecond
+110,0,4,0,1,0.65,Gayley-Strathmore Intersection,Mona Chalabi,100Asecond
+140,0,3,0,0,0.5,Gayley-Strathmore Intersection,Mona Chalabi,100Asecond
+90,2,3,1,0,0.75,Gayley-Strathmore Intersection,Mona Chalabi,100Asecond
+85,1,3,0,1,0.5,ENGR6,Mona Chalabi,100Asecond
+90,0,2,0,1,1,ENGR6,Mona Chalabi,100Asecond
+60,1,1,0,0,0.5,ENGR6,Mona Chalabi,100Asecond
+100,1,3,1,1,0.9,ENGR6,Mona Chalabi,100Asecond
+120,0,3,0,1,0.8,ENGR6,Mona Chalabi,100Asecond
+75,1,3,1,0,1,ENGR6,Mona Chalabi,100Asecond
+45,0,3,0,1,0.8,Dodd Hall,Mona Chalabi,100Asecond
+30,0,2,0,1,0.7,Dodd Hall,Mona Chalabi,100Asecond
+48,1,3,0,0,0.4,Public Affairs,Mona Chalabi,100Asecond
+60,0,3,0,1,0.9,Boelter Hall,Mona Chalabi,100Asecond
+30,1,2,0,1,0.8,Boelter Hall,Mona Chalabi,100Asecond
+60,0,3,0,1,0.4,Kinsey Science Pavilion,Mona Chalabi,100Asecond
+96,1,3,0,0,0.4,Pauley Pavilion,Mona Chalabi,100Asecond
+90,0,3,0,1,0.7,Boelter Hall,Mona Chalabi,100Asecond
+100,1,3,0,1,0.2,Court of Sciences,Mona Chalabi,100Asecond
+30,0,3,0,1,0.5,Bruin Plaza,Mona Chalabi,100Asecond
+60,0,4,0,1,0.45,Math-Sciences,Mona Chalabi,100Asecond
+100,0,3,1,0,0.7,Public Affairs,Mona Chalabi,100Asecond
+30,0,1,0,1,0.6,Court of Sciences,Mona Chalabi,100Asecond
+150,1,1,0,0,0.5,YRL,Mona Chalabi,100Asecond
+120,1,2,0,1,1,Powell,Mona Chalabi,100Asecond
+40,0,3,0,0,0.5,Math-Sciences,Mona Chalabi,100Asecond
+90,2,2,0,0,0.7,Math-Sciences,Mona Chalabi,100Asecond
+90,0,2,0,0,0.6,Kerchoff Hall,Mona Chalabi,100Asecond
+200,1,4,1,1,0.95,Court of Sciences,Mona Chalabi,100Asecond
+120,1,1,0,1,0.7,Powell,Mona Chalabi,100Asecond
+50,0,4,0,1,0.8,Kerchoff @ 5PM,Richard Hamming,100Asecond
+45,1,3,1,1,1,Kerchoff @ 5PM,Richard Hamming,100Asecond
+130,0,2,0,1,0.9,Kerchoff @5PM,Richard Hamming,100Asecond
+40,0,3,0,1,0.6,Kerchoff @5PM,Richard Hamming,100Asecond
+10,0,3,0,1,1,Kerchoff @5PM,Richard Hamming,100Asecond
+40,0,2,0,1,0.9,Kerchoff @5:30PM,Richard Hamming,100Asecond
+30,1,3,0,0,0.2,South Campus @5:30 PM ,Richard Hamming,100Asecond
+60,2,4,0,1,1,South Campus @5:30 PM ,Richard Hamming,100Asecond
+167,0,3,0,1,1,South Campus @5:30 PM ,Richard Hamming,100Asecond
+54,0,3,0,1,1,South Campus @5:30 PM ,Richard Hamming,100Asecond
+90,1,3,0,1,0.9,Inverted Fountain,Thomas Bayes,100Asecond
+90,2,4,0,1,0.9,Inverted Fountain,Thomas Bayes,100Asecond
+150,6,4,0,0,0.6,Inverted Fountain,Thomas Bayes,100Asecond
+100,4,3,0,1,0.75,Inverted Fountain,Thomas Bayes,100Asecond
+120,4,3,0,1,0.8,Inverted Fountain,Thomas Bayes,100Asecond
+60,7,2,1,1,0.5,Inverted Fountain,Thomas Bayes,100Asecond
+80,3,4,0,0,0.8,Inverted Fountain,Thomas Bayes,100Asecond
+110,3,4,1,0,0.9,Inverted Fountain,Thomas Bayes,100Asecond
+120,4,4,0,0,0.75,Inverted Fountain,Thomas Bayes,100Asecond
+90,5,3,0,1,0.8,Inverted Fountain,Thomas Bayes,100Asecond
+150,5,2,0,1,0.75,Powell,Thomas Bayes,100Asecond
+140,4,4,1,1,0.6,Powell,Thomas Bayes,100Asecond
+120,6,2,0,1,0.8,Powell,Thomas Bayes,100Asecond
+140,5,3,0,0,0.6,Powell,Thomas Bayes,100Asecond
+60,1,4,1,1,0.8,Powell,Thomas Bayes,100Asecond
+120,2,3,0,1,0.5,Bruinwalk,Thomas Bayes,100Asecond
+90,6,3,0,0,0.5,Bruinwalk,Thomas Bayes,100Asecond
+150,3,2,1,0,0.6,Bruinwalk,Thomas Bayes,100Asecond
+60,7,3,0,0,0.8,Bruinwalk,Thomas Bayes,100Asecond
+120,3,3,0,1,0.6,Bruinwalk,Thomas Bayes,100Asecond
+100,1,4,0,0,0.5,Parking 2,William Sealy Gosset,100Asecond
+80,1,3,1,0,0.6,Geology Building,William Sealy Gosset,100Asecond
+10,1,4,0,1,0.5,Parking 2,William Sealy Gosset,100Asecond
+150,0,4,0,1,0.7,Inverted Fountain,William Sealy Gosset,100Asecond
+20,0,2,1,1,0.3,Math Science Building,William Sealy Gosset,100Asecond
+90,5,1,1,0,0.5,Math Science Building,William Sealy Gosset,100Asecond
+200,10,2,0,0,0.5,Parking 2,William Sealy Gosset,100Asecond
+80,2,3,0,0,0.6,Inverted Fountain,William Sealy Gosset,100Asecond
+60,0,3,0,1,0.4,Inverted Fountain,William Sealy Gosset,100Asecond
+100,3,4,1,1,0.3,Geology Building,William Sealy Gosset,100Asecond
+80,0,3,0,0,0.4,Hedrick Summit,William Sealy Gosset,100Asecond
+25,0,4,0,0,0.3,Hedrick Summit,William Sealy Gosset,100Asecond
+50,2,2,0,1,0.25,Rieber Terrace,William Sealy Gosset,100Asecond
+55,0,3,1,0,0.5,Rieber Terrace,William Sealy Gosset,100Asecond
+60,1,3,0,1,0.3,Sproul Cove,William Sealy Gosset,100Asecond
+30,3,2,1,1,0.65,Sproul Cove,William Sealy Gosset,100Asecond
+45,0,4,0,0,0.5,Dykstra Hall,William Sealy Gosset,100Asecond
+60,2,1,0,1,0.2,Dykstra Hall,William Sealy Gosset,100Asecond
+75,1,2,1,0,0.4,Olympic Hall,William Sealy Gosset,100Asecond
+35,0,3,0,0,0.5,Olympic Hall,William Sealy Gosset,100Asecond
+50,2,4,1,1,0.7,De Neve ,William Sealy Gosset,100Asecond
+75,0,3,1,1,0.5,De Neve ,William Sealy Gosset,100Asecond
+30,0,3,1,0,0.63,John Wooden ,William Sealy Gosset,100Asecond
+40,4,4,0,1,0.75,John Wooden ,William Sealy Gosset,100Asecond
+100,0,3,0,1,0.65,UCLA Store ,William Sealy Gosset,100Asecond
+120,0,4,1,0,0.86,UCLA Store ,William Sealy Gosset,100Asecond
+50,2,3,0,1,0.7,SAC,William Sealy Gosset,100Asecond
+100,0,4,1,0,0.45,SAC,William Sealy Gosset,100Asecond
+80,0,4,0,0,0.7,Ashe Center ,William Sealy Gosset,100Asecond
+120,0,4,0,1,0.5,Ashe Center ,William Sealy Gosset,100Asecond
+50,0,3,0,1,0.55,Molecular Science Building,Augustus de Morgen,100Asecond
+60,0,4,0,1,0.6,Neuroscience Building,Augustus de Morgen,100Asecond
+70,0,4,1,1,0.6,Boelter,Augustus de Morgen,100Asecond
+60,1,3,0,1,0.5,De Neve,Augustus de Morgen,100Asecond
+60,0,4,0,1,1,De Neve ,Augustus de Morgen,100Asecond
+60,0,3,0,0,0.7,Bunche,Augustus de Morgen,100Asecond
+40,1,3,0,0,1,Bruinwalk,Augustus de Morgen,100Asecond
+90,0,4,0,1,0.8,Bruinwalk,Augustus de Morgen,100Asecond
+50,1,2,0,0,0.5,Powell,Augustus de Morgen,100Asecond
+60,0,4,0,0,0.75,Kerchkoff,Augustus de Morgen,100Asecond
+100,2,4,0,1,0.2,Hedrick Summit,Augustus de Morgen,100Asecond
+80,1,4,1,0,0.4,Covel,Augustus de Morgen,100Asecond
+70,0,3,0,0,0.5,Covel,Augustus de Morgen,100Asecond
+80,0,4,0,1,0.4,Rolfe Hall,Augustus de Morgen,100Asecond
+50,0,4,0,0,0.8,Rolfe Hall,Augustus de Morgen,100Asecond
+60,1,4,0,1,0.7,Kaplan Hall,Augustus de Morgen,100Asecond
+90,2,3,1,0,0.6,Sunset Village,Augustus de Morgen,100Asecond
+50,0,4,0,1,0.3,Sunset Village,Augustus de Morgen,100Asecond
+80,0,3,0,0,0.9,Rieber,Augustus de Morgen,100Asecond
+90,1,4,0,1,0.8,Rieber,Augustus de Morgen,100Asecond
+120,3,4,1,0,0.6,Powell,Augustus de Morgen,100Asecond
+75,0,2,0,0,0.7,Kerckhoff,Augustus de Morgen,100Asecond
+90,2,4,1,1,0.4,Boelter ,Augustus de Morgen,100Asecond
+120,0,4,0,0,0.75,Inv. Fountain,Augustus de Morgen,100Asecond
+90,2,3,0,1,0.5,Dickson Court,Augustus de Morgen,100Asecond
+75,1,2,1,1,0.8,Bunche,Augustus de Morgen,100Asecond
+100,0,3,0,0,0.6,YRL,Augustus de Morgen,100Asecond
+90,1,2,0,0,0.3,Royce,Augustus de Morgen,100Asecond
+60,0,3,0,1,0.2,Wilson Plaza,Augustus de Morgen,100Asecond
+50,2,3,0,0,0.5,Bruin Plaza,Augustus de Morgen,100Asecond
+90,0,4,1,1,1,John Wooden Center,Leonard Euler,100Asecond
+60,2,3,0,0,0.5,John Wooden Center,Leonard Euler,100Asecond
+72,2,4,0,1,0.2,John Wooden Center,Leonard Euler,100Asecond
+45,4,3,1,0,0.9,John Wooden Center,Leonard Euler,100Asecond
+10,0,1,0,0,0,John Wooden Center,Leonard Euler,100Asecond
+84,0,3,1,1,0.7,John Wooden Center,Leonard Euler,100Asecond
+5,3,2,0,0,0.4,John Wooden Center,Leonard Euler,100Asecond
+20,1,3,1,0,0.8,John Wooden Center,Leonard Euler,100Asecond
+35,2,2,0,1,0,John Wooden Center,Leonard Euler,100Asecond
+66,1,4,1,1,1,John Wooden Center,Leonard Euler,100Asecond
+45,0,2,0,1,0.35,IM Field,Leonard Euler,100Asecond
+120,1,2,0,1,0.75,IM Field,Leonard Euler,100Asecond
+60,0,3,0,1,0.7,IM Field,Leonard Euler,100Asecond
+60,0,3,0,1,0.6,IM Field,Leonard Euler,100Asecond
+120,0,3,0,1,0.6,IM Field,Leonard Euler,100Asecond
+60,0,4,0,1,0.6,IM Field,Leonard Euler,100Asecond
+60,3,3,1,1,0.9,IM Field,Leonard Euler,100Asecond
+60,0,3,1,1,1,IM Field,Leonard Euler,100Asecond
+90,1,4,1,0,0,IM Field,Leonard Euler,100Asecond
+60,0,3,1,1,0,IM Field,Leonard Euler,100Asecond
+150,0,4,1,0,1,Inverted Fountain,Leonard Euler,100Asecond
+20,1,3,1,1,0.5,Inverted Fountain,Leonard Euler,100Asecond
+35,0,4,0,0,1,Inverted Fountain,Leonard Euler,100Asecond
+90,0,4,0,1,0.75,Inverted Fountain,Leonard Euler,100Asecond
+40,0,3,0,1,0.8,Inverted Fountain,Leonard Euler,100Asecond
+120,0,3,0,1,1,Inverted Fountain,Leonard Euler,100Asecond
+50,1,4,1,1,0.6,Inverted Fountain,Leonard Euler,100Asecond
+60,0,2,0,0,0.75,Inverted Fountain,Leonard Euler,100Asecond
+150,0,3,0,1,0.4,Inverted Fountain,Leonard Euler,100Asecond
+60,0,3,0,0,0.75,Inverted Fountain,Leonard Euler,100Asecond
+40,0,3,0,1,0.7,UCLA Botanical Garden,Janet Norwood,
+50,1,3,1,1,0.5,UCLA Botanical Garden,Janet Norwood,
+25,1,2,0,1,0.6,Bruinwalk,Janet Norwood,
+30,1,3,0,1,0.5,Bruinwalk,Janet Norwood,
+30,2,4,0,1,0.5,UCLA Biomedical Library,Janet Norwood,
+40,0,3,0,0,0.7,Bruinwalk,Janet Norwood,
+60,0,3,1,1,0.3,Bruinwalk,Janet Norwood,
+30,0,4,0,1,0.4,Bruinwalk,Janet Norwood,
+50,1,3,0,1,0.5,Anderson Business School,Janet Norwood,
+30,1,3,0,0,0.5,Bruinwalk,Janet Norwood,
+25,1,4,0,1,0.8,UCLA Fowler Museum,Janet Norwood,
+45,3,3,0,1,0.4,UCLA Fowler Museum,Janet Norwood,
+90,3,4,0,0,0.7,Biomedical Library,Janet Norwood,
+60,2,4,0,1,0.6,Biomedical Library,Janet Norwood,
+60,2,3,1,0,0.5,Reiber Hall,Janet Norwood,
+90,1,3,1,0,0.4,Reiber Hall,Janet Norwood,
+30,3,2,0,0,0.6,Reiber Hall,Janet Norwood,
+20,2,3,1,1,0.2,Reiber Hall,Janet Norwood,
+60,3,1,1,1,0.7,Outside BPlate,Janet Norwood,
+40,4,2,0,0,0.5,Outside BPlate,Janet Norwood,
+25,0,3,1,1,0.4,Reiber Vista,Janet Norwood,
+35,1,4,0,1,0.2,Reiber Vista,Janet Norwood,
+30,0,4,1,1,0.5,Reiber Vista,Janet Norwood,
+45,3,1,0,0,0.1,Reiber Vista,Janet Norwood,
+30,2,3,0,0,0.4,Court of Sciences,Janet Norwood,
+40,1,2,1,1,0.6,Court of Sciences,Janet Norwood,
+50,0,3,0,1,0.8,Court of Sciences,Janet Norwood,
+45,1,4,1,0,0.7,Kerckhoff Cafe,Janet Norwood,
+10,0,3,0,1,0.5,Kerckhoff Cafe,Janet Norwood,
+30,1,2,1,0,0.4,Kerckhoff Cafe,Janet Norwood,
+30,1,3,0,1,0.7,Inverted Fountain,Janet Norwood,
+35,1,3,0,1,0.6,Inverted Fountain,Janet Norwood,
+20,1,2,1,1,0.7,Inverted Fountain,Janet Norwood,
+25,0,2,0,0,0.4,Inverted Fountain,Janet Norwood,
+30,0,3,0,1,0.5,Janss Steps,Janet Norwood,
+35,0,1,0,0,0.5,Janss Steps,Janet Norwood,
+40,1,2,1,1,0.6,Janss Steps,Janet Norwood,
+45,3,1,0,0,0.7,Janss Steps,Janet Norwood,
+30,0,2,0,0,0.7,Student Activites Center,Janet Norwood,
+20,0,3,1,1,0.3,Student Activites Center,Janet Norwood,
